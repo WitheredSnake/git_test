@@ -1,2 +1,2 @@
 # git_test
-My first use of Git CLI!
+My first time using Git through CLI!
